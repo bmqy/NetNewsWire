@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  NetNewsWire
+
+  Created by bmqy on 2022/8/13.
+  Copyright © 2022 Ranchero Software. All rights reserved.
+*/
+/* Bundle */
+"Unread_Widget_Title" = "未读文章";
+"Unread_Widget_Description" = "快速查看未读文章。";
+
+"Today_Widget_Title" = "今日文章";
+"Today_Widget_Description" = "快速查看今天发表的未读文章。";
+
+"Starred_Widget_Title" = "收藏的文章";
+"Starred_Widget_Description" = "快速查看收藏的文章。";
+
+"SmartFeedSummary_Widget_Title" = "智能订阅的摘要。";
+"SmartFeedSummary_Widget_Description" = "智能订阅的摘要汇总。";
+
+/* Unread Widget */
+"Unread_Widget_NoItemsTitle" = "未读";
+"Unread_Widget_NoItems" = "没有未读文章了。";
+
+/* Today Widget */
+"Today_Widget_NoItemsTitle" = "今日";
+"Today_Widget_NoItems" = "今天没有未读的文章了。";
+
+/* Starred Widget */
+"Starred_Widget_NoItemsTitle" = "收藏";
+"Starred_Widget_NoItems" = "当你将文章收藏时，它们会出现在这里。";
+
+/* Smart Feed Summary Widget */
+"Unread" = "未读";
+"Today" = "今日";
+"Starred" = "收藏";

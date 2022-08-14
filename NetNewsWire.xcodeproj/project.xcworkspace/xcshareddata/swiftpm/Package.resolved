@@ -57,20 +57,20 @@
       },
       {
         "package": "RSCore",
-        "repositoryURL": "https://github.com/Ranchero-Software/RSCore.git",
+        "repositoryURL": "https://github.com/Ranchero-Software/RSCore",
         "state": {
-          "branch": null,
+          "branch": "main",
           "revision": "814adfd956e5bd099b3b81b6680d0a4f6cd56130",
-          "version": "1.0.9"
+          "version": null
         }
       },
       {
         "package": "RSDatabase",
-        "repositoryURL": "https://github.com/Ranchero-Software/RSDatabase.git",
+        "repositoryURL": "https://github.com/Ranchero-Software/RSDatabase",
         "state": {
-          "branch": null,
-          "revision": "a6c5f1622320f745cc9a0a910d1bed1e2eaf15e3",
-          "version": "1.0.0"
+          "branch": "main",
+          "revision": "9a5f8990b3dde2f8187fe9a51ea65856f1614411",
+          "version": null
         }
       },
       {
@@ -84,29 +84,29 @@
       },
       {
         "package": "RSTree",
-        "repositoryURL": "https://github.com/Ranchero-Software/RSTree.git",
+        "repositoryURL": "https://github.com/Ranchero-Software/RSTree",
         "state": {
-          "branch": null,
-          "revision": "9d051f42cfc4faa991fd79cdb32e4cc8c545e334",
-          "version": "1.0.0"
+          "branch": "main",
+          "revision": "24d587d35618357dae2458cceb1000528fedb92b",
+          "version": null
         }
       },
       {
         "package": "RSWeb",
-        "repositoryURL": "https://github.com/Ranchero-Software/RSWeb.git",
+        "repositoryURL": "https://github.com/Ranchero-Software/RSWeb",
         "state": {
-          "branch": null,
-          "revision": "2f7849a9ad2cb461b3d6c9c920e163596e6b5d7b",
-          "version": "1.0.3"
+          "branch": "main",
+          "revision": "4ba123beea2ee16d85ac838b0de680f9f300c172",
+          "version": null
         }
       },
       {
         "package": "RSSparkle",
-        "repositoryURL": "https://github.com/Ranchero-Software/Sparkle-Binary.git",
+        "repositoryURL": "https://github.com/Ranchero-Software/Sparkle-Binary",
         "state": {
-          "branch": null,
-          "revision": "d1a8b3c98d96c601453f2e4230f1dd65b60d0581",
-          "version": "2.0.1"
+          "branch": "main",
+          "revision": "a627bc8ddf658ab03bcfe29c8539f727159e7a2d",
+          "version": null
         }
       },
       {

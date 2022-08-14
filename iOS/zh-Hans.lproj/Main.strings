@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0Hz-Dv-MhU"; */
+"0Hz-Dv-MhU.text" = "标签";
+
+/* Class = "UIBarButtonItem"; title = "Next Article"; ObjectID = "2qz-M5-Yhk"; */
+"2qz-M5-Yhk.title" = "下一篇";
+
+/* Class = "UIBarButtonItem"; title = "Next Unread"; ObjectID = "2w5-e9-C2V"; */
+"2w5-e9-C2V.title" = "下一篇未读";
+
+/* Class = "UILabel"; text = "Blog Author"; ObjectID = "7GV-PV-YVq"; */
+"7GV-PV-YVq.text" = "博客作者";
+
+/* Class = "UIViewController"; title = "Detail"; ObjectID = "JEX-9P-axG"; */
+"JEX-9P-axG.title" = "详情";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "TlU-Pg-ATe"; */
+"TlU-Pg-ATe.title" = "设置";
+
+/* Class = "UILabel"; text = "Blog Name"; ObjectID = "YsT-Lt-Zry"; */
+"YsT-Lt-Zry.text" = "博客名字";
+
+/* Class = "UINavigationItem"; title = "Feeds"; ObjectID = "Zdf-7t-Un8"; */
+"Zdf-7t-Un8.title" = "订阅";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "fTv-eX-72r"; */
+"fTv-eX-72r.title" = "项目";
+
+/* Class = "UIBarButtonItem"; title = "Toggle Read"; ObjectID = "hy0-LS-MzE"; */
+"hy0-LS-MzE.title" = "切换阅读";
+
+/* Class = "UILabel"; text = "Article Title"; ObjectID = "iFp-rn-HhQ"; */
+"iFp-rn-HhQ.text" = "文章标题";
+
+/* Class = "UIBarButtonItem"; title = "Previous Article"; ObjectID = "v4j-fq-23N"; */
+"v4j-fq-23N.title" = "上一篇文章";
+
+/* Class = "UIBarButtonItem"; title = "Toggle Starred"; ObjectID = "wU4-eH-wC9"; */
+"wU4-eH-wC9.title" = "切换已收藏";
+
+/* Class = "UINavigationItem"; title = "Timeline"; ObjectID = "wcC-1L-ug4"; */
+"wcC-1L-ug4.title" = "时间线";
